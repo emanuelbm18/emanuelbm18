@@ -31,12 +31,5 @@ Dedicado a cada vez mais melhorar minhas habilidades e competências para cada v
 
 
 ### Projeto Trainee DB1 Start!
-[![Other Projects](https://github-readme-stats.vercel.app/api/pin/?username=emanuelbm18&repo=DB1-Start&bg_color=000&border_color=30A3DC&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast)](https://github.com/emanuelbm18/DB1-Start)
-
-[![Other Projects](https://github-readme-stats.vercel.app/api/pin/?username=emanuelbm18&repo=AULA04&bg_color=000&border_color=30A3DC&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast)](https://github.com/emanuelbm18/AULA04)
-
-[![Other Projects](https://github-readme-stats.vercel.app/api/pin/?username=emanuelbm18&repo=Ola-Mundo&bg_color=000&border_color=30A3DC&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast)](https://github.com/emanuelbm18/Ola-Mundo)
-
-[![Other Projects](https://github-readme-stats.vercel.app/api/pin/?username=emanuelbm18&repo=AULA07&bg_color=000&border_color=30A3DC&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast)](https://github.com/emanuelbm18/AULA07)
-
-[![Other Projects](https://github-readme-stats.vercel.app/api/pin/?username=emanuelbm18&repo=Aula16&bg_color=000&border_color=30A3DC&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast)](https://github.com/emanuelbm18/Aula16)
+[![Other Projects](https://github-readme-stats.vercel.app/api/pin/?username=emanuelbm18&repo=DB1-Start&bg_color=000&border_color=30A3DC&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast)](https://github.com/emanuelbm18/DB1-Start) [![Other Projects](https://github-readme-stats.vercel.app/api/pin/?username=emanuelbm18&repo=AULA04&bg_color=000&border_color=30A3DC&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast)](https://github.com/emanuelbm18/AULA04) [![Other Projects](https://github-readme-stats.vercel.app/api/pin/?username=emanuelbm18&repo=Ola-Mundo&bg_color=000&border_color=30A3DC&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast)](https://github.com/emanuelbm18/Ola-Mundo)
+[![Other Projects](https://github-readme-stats.vercel.app/api/pin/?username=emanuelbm18&repo=AULA07&bg_color=000&border_color=30A3DC&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast)](https://github.com/emanuelbm18/AULA07) [![Other Projects](https://github-readme-stats.vercel.app/api/pin/?username=emanuelbm18&repo=Aula16&bg_color=000&border_color=30A3DC&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast)](https://github.com/emanuelbm18/Aula16)
