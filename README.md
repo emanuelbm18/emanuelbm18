@@ -6,7 +6,7 @@ Me aprofundando cada vez mais em cursos e talvez fazer faculdade de Análise e D
 Dedicado a cada vez mais melhorar minhas habilidades e competências para cada vez mais ser melhor no que faço.
 
 ### Contato
-[![Perfil DIO](https://img.shields.io/badge/-Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/ebm_1234/)
+[![Perfil DIO](https://img.shields.io/badge/-Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/ebm_1234)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/emanuelbifonmarengoni/)
 
 ### Estudando
