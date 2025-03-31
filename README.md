@@ -1,7 +1,13 @@
 # Emanuel Bifon Marengoni
-Bem vindo ao meu perfil, sou estudante de Engenharia Civil, apaixonado pela área de tecnologia.
+Bem vindo ao meu perfil!
 
-Me aprofundando cada vez mais em cursos e talvez fazer faculdade de Análise e Desenvolvimento de Sistemas, para migrar para esta área ou até mesmo mesclar estas duas áreas de Engenharia e Tecnologia/Programação.
+##Biografia
+
+Apaixonado pela área de Engenharia Civil e T.I. Competências na área de Engenharia Civil com projetos, gerenciamento de projetos, acompanhamento de obras e ensaios laboratoriais; Área de T.I. como Desenvolvedor Fullstack em Java, Python e C++.
+
+Prezando a qualidade e dedicação de trabalho para aperfeiçoar cada vez mais minhas habilidades e competências, atendendo o melhor possível a empresa.
+
+Atualmente estudando Eng. de Segurança Cibernética e Eng. Civil, tirando Certificado Profissional de Segurança cibernética do Google, faço parte do programa de Embaixadores Universitários da DIO, sendo membro da plataforma a mais de um ano, com dois bootcamps concluídos e um bootcamps em andamento (Bradesco - Java Cloud Native).
 
 Dedicado a cada vez mais melhorar minhas habilidades e competências para cada vez mais ser melhor no que faço.
 
