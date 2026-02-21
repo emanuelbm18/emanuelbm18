@@ -3,11 +3,11 @@ Bem vindo ao meu perfil!
 
 ##Biografia
 
-Apaixonado pela área de Engenharia Civil e T.I. Competências na área de Engenharia Civil com projetos, gerenciamento de projetos, acompanhamento de obras e ensaios laboratoriais; Área de T.I. como Desenvolvedor Fullstack em Java, Python e C++.
+Apaixonado pela área de Cibersegurança e T.I. Competências em projetos, gerenciamento de projetos; Desenvolvedor Fullstack em Java, Python e C++.
 
 Prezando a qualidade e dedicação de trabalho para aperfeiçoar cada vez mais minhas habilidades e competências, atendendo o melhor possível a empresa.
 
-Atualmente estudando Eng. de Segurança Cibernética e Eng. Civil, tirando Certificado Profissional de Segurança cibernética do Google, faço parte do programa de Embaixadores Universitários da DIO, sendo membro da plataforma a mais de um ano, com dois bootcamps concluídos e um bootcamps em andamento (Bradesco - Java Cloud Native).
+Atualmente estudando Eng. de Segurança Cibernética e concluindo Eng. Civil, tirando Certificado Profissional de Segurança cibernética do Google, fiz parte do programa de Embaixadores Universitários da DIO, sendo membro da plataforma a mais de um ano, vários bootcamps concluídos.
 
 Dedicado a cada vez mais melhorar minhas habilidades e competências para cada vez mais ser melhor no que faço.
 
